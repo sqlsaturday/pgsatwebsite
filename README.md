@@ -1,6 +1,6 @@
-# SQL Saturday Website
+# PG Saturday Website
 
-This is the main repository for the SQLSaturday.com website. All code in the folders is used to generate the SQLSaturday.com website. This is hosted and published as a GitJHub pages site. The generation of the site is through GiHub actions and is based on the Jekyll framework.
+This is the main repository for the PGSaturday.com website. All code in the folders is used to generate the SQLSaturday.com website. This is hosted and published as a GitJHub pages site. The generation of the site is through GiHub actions and is based on the Jekyll framework.
 
 ## Adding a new event
 Two main things and one optional one.
