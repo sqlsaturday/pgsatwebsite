@@ -1,82 +1,71 @@
-name: "SQL Saturday Los Angeles June 2021"
-primarytag: "Los%20%Angeles"
-logo: "/assets/img/logos/sqlsatla-logo_large.jpg"
-logocredit: Logo by Janella Payumo and Robert Mizikovsky
-date: 2021-06-12 08:00:00 -0000
-virtual: true
-physical: false
+name: "SQL Saturday and PG Saturday Redmond 2025"
+primarytag: "Redmond"
+logo: 
+logocredit: 
+date: 2025-03-29 09:00:00 -0000
+virtual: false
+physical: true
 hybrid: false
-description: |
-    data.SQL.Saturday.la is a free training event for professionals who use the Microsoft data platform. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and more.
+description: | 
+    <p>Please join us for the return of SQL Saturday to NW Washington! SQL Saturday Redmond is a free, all day training event for all data professionals interested in the Microsoft data platform or PostgreSQL.</p>
+
+eventlocation: |
+  Redmond Reactor<br/>
+  3709 157th Ave NE<br/>
+  Redmond, WA 98052 
+eventlocationurl: https://developer.microsoft.com/en-us/reactor/about/
 
 officialwebsite: 
-eventlocation: 
-registrationurl: "https://www.eventbrite.com/e/virtual-2021-datasqlsaturdayla-tickets-136013374665"
-capacity: 
-googlemapurl: 
-scheduleurl: https://sessionize.com/api/v2/a3ebxb7v/view/GridSmart
-scheduletimezone: Pacific Daylight Savings time UTC -7
+registrationurl: 
+capacity: 250 
+cocurl: https://sqlsaturday.com/coc/Redmond-coc
 
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2688.097193620542!2d-122.13366522324868!3d47.64367808541574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906d71fad78e11%3A0x41c6b1be983cf409!2s3709%20157th%20Ave%20NE%2C%20Redmond%2C%20WA%2098052!5e0!3m2!1sen!2sus!4v1735338598621!5m2!1sen!2sus"
+precons: false
+precondetail: 
+
+scheduleurl: 
+scheduletimezone: Pacific Daylight Time UTC -8
+lunchcost: Available for purchase at the event.
 eventcountdown: true
 
-countdownscript: |
-    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-ppg3" class="countdown-timer" data-style="columns" data-timezone="America/Los_Angeles" data-date="2021-06-12 08:00">Countdown to SQL Sat Los Angeles June 2021</a>
+countdownscript: <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-7jn8" class="countdown-timer" data-style="columns" data-timezone="America/New_York" data-date="2025-03-29 08:00">Countdown</a>
  
-speakertext: 
-speakerlisturl: https://sessionize.com/2021-sql-saturday-in-los-angeles
-callforspeakersurl: "https://sessionize.com/2021-sql-saturday-in-los-angeles"
+speakertext: The call for speakers is not yet available.
+speakerlisturl: 
+callforspeakersurl: 
 callforspeakers:  false
-callforspeakersenddate: 14 Apr 2021
+callforspeakersenddate: 31 Mar 2024
 
 organizers:
-  - name: Data Driven Technology Inc, 501.c.3 non-profit
-    twitter: sqlsatla
-    email: "sqlsatla@datadriventechnologies.org"
-    url: https://linktr.ee/sqlsatla
+  - name: "Rick Lowe"
+    twitter: 
+    email: rick@data-flowe.com
+    url: 
+  - name: "Jeremy Schneider"
+    twitter: 
+    email: schneider@ardentperf.com
+    url: 
 
 volunteers:
-  description: "Volunteers are very important to a successful event. Please use the link below to volunteer."
-  volunteerurl: "https://datadriventechnologies.org/2021/02/22/2021-data-sql-saturday-call-to-volunteers/"
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl:
 
 social:
-  twitter: sqlsatla
-  youtube: sqlsatla
-  linkedin: "https://www.linkedin.com/company/sqlsatla"
-  instagram: sqlsatla
-  tiktok: "sqlsatla"
-  pinterest: "sqlsatla"
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
 
 sponsorscontacturl: 
 sponsors:
-  - link: https://www.vmware.com/
-    image: /assets/img/logos/vmware-115x18.png
-  - link: https://www.datavail.com/
-    image: /assets/img/logos/Datavail-115x26.jpg
-  - link: https://www.wherescape.com/
-    image: /assets/img/logos/wherescape-115x34.jpg
-  - link: https://sios.com/
-    image: /assets/img/logos/sios-115x46.jpg
-  - link: https://www.dbwatch.com/
-    image: /assets/img/logos/dbwatch-115x26.jpg
-  - link: https://www.cappuccinoinsurance.com/
-    image: /assets/img/logos/cappuccino-115x49.jpg
-  - link: https://www.oreilly.com/
-    image: /assets/img/logos/oreilly-115x20.jpg
-  - link: https://lucient.com/
-    image: /assets/img/logos/lucient-115x41.jpg
-  - link: https://www.red-gate.com/
-    image: /assets/img/logos/redgate-115x26.jpg
-
-join:
-  description: The rooms are not live, but on the day of the event, you can click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
-  rooms:
-    - name: "VMware + Lobby"
-      url: https://tinyurl.com/2021datasqlsatla-vmware
-    - name: Datavail
-      url: https://tinyurl.com/2021datasqlsatla-datavail
-    - name: Sios
-      url: https://tinyurl.com/2021datasqlsatla-sios
-    - name: Wherescape
-      url: https://tinyurl.com/2021datasqlsatla-wherescape
-    - name: Lucient
-      url: https://tinyurl.com/2021datasqlsatla-lucient
+  - link: https://www.microsoft.com
+    type: Platinum
+    image: /assets/img/logos/Microsoft-logo_rgb_c-gray.png
+    width: 948
+    height: 255  
+    
+sponsorplan:
+  <p>Coming soon</p>
