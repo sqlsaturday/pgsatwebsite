@@ -1,18 +1,18 @@
 ---
 layout: page
-title: SQL Saturday Data Privacy
+title: PG Saturday Data Privacy
 permalink: /data/
 ---
 
-This is a basic data privacy policy for SQL Saturday events. Any individual event can enforce a different policy if they choose. 
-
+This is a basic data privacy policy for PG Saturday events. Any individual event can enforce a different policy if they choose. 
+S
 We prefer opt-in over opt-out for data sharing.
 
 ## Data Collection and Processing Policy
-This policy defines how data collected by SQL Saturday is used and processed.
+This policy defines how data collected by PG Saturday is used and processed.
 
 ### Privacy Notice
-SQL Saturday respects your privacy. All information you give us is held with the utmost care and security.
+PG Saturday respects your privacy. All information you give us is held with the utmost care and security.
 
 Please take time to review this privacy policy as it sets out our privacy practices and tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
 
@@ -35,4 +35,4 @@ Individual event organizers may choose to require consent in order to complete y
 
 This policy was last reviewed on 28 Dec 2022.
 
-If you have questions or concerns, please contact us at <a href="mailto:admin@sqlsaturday.com">the SQL Saturday admin email</a>.
+If you have questions or concerns, please contact us at <a href="mailto:admin@sqlsaturday.com">the PG Saturday admin email</a>.

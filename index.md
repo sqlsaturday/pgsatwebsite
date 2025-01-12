@@ -1,18 +1,18 @@
 ---
 layout: home
-title: "SQL Saturday"
+title: "PG Saturday"
 ---
-Welcome to SQL Saturday, the home of free community events for database professionals and those working with data across any platform. We have these events listed:
-- <a href="#events">upcoming SQL Saturday events</a>
-- <a href="#reserved">reserved dates for future SQL Saturdays</a>
-- <a href="#other">other non-SQL Saturday events</a>
+Welcome to PG Saturday, the home of free community events for database professionals and those working with data across any platform. We have these events listed:
+- <a href="#events">upcoming PG Saturday events</a>
+- <a href="#reserved">reserved dates for future PG Saturdays</a>
+- <a href="#other">other non-PG Saturday events</a>
 - <a href="https://sqlsaturday.com/feed.xml">an RSS feed of all events</a>
 
 If you want to know more about events from an organizer, speaker, sponsor, or attendee standpoint, sign up for our [mailing list](http://eepurl.com/hwVBKn)
 
 ## <a name="events"></a>Events
 
-These are the SQL Saturday events that are currently scheduled. If you would like to organize or schedule an event, please visit our [running a new event](http://sqlsaturday.com/newevent/) page.
+These are the PG Saturday events that are currently scheduled. If you would like to organize or schedule an event, please visit our [running a new event](http://sqlsaturday.com/newevent/) page.
 
 <table cellspacing=0 class="table table-hover table-borderless table-sortable mt-3" width="100%">
   <thead>
@@ -60,7 +60,7 @@ The following dates are tentative for these cities, but they have asked to reser
 - Nov 30 - Lima, Peru
 - Mar 25, 2025 - Seattle/Redmond
 - May 10, 2025 - NYC
-- Tech Community Day / SQL Saturday Guatamala 2025 - TBD
+- Tech Community Day / PG Saturday Guatamala 2025 - TBD
 
 Please contact the local organizers for these areas if you have questions or concerns.
 
